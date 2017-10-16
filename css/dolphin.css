@@ -20,8 +20,9 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (max-width: 1296px) {
-  #ostrich {
-    top: -50px;
+@media only screen and (max-width: 1196px) and (min-width: 630) {
+  #dolphin {
+    transform: rotate(-0.25turn);
+    top: 50px;
   }
 }
